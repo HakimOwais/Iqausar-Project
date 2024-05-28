@@ -8,3 +8,7 @@ class Response(BaseModel):
     sources: List[int] = Field(
         description="List of page chunks that contain answer to the question. Only include a page chunk if it contains relevant information"
     )
+    
+
+class QueryResponse(BaseModel):
+    documents: List[str] = Field(..., description="The retrieved information from the document")
