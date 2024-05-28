@@ -1,0 +1,30 @@
+To give you a more specific idea of the path we’ll take, chapter sum-
+maries can be found below.
+Chapter 1: the importance of context
+Before you start down the path of data visualization, there are a
+couple of questions that you should be able to concisely answer:
+Who is your audience? What do you need them to know or do? This
+chapter describes the importance of understanding the situational
+context, including the audience, communication mechanism, and
+desired tone. A number of concepts are introduced and illustrated
+via example to help ensure that context is fully understood. Creating
+a robust understanding of the situational context reduces iterations
+down the road and sets you on the path to success when it comes
+to creating visual content.
+Chapter 2: choosing an effective visual
+What is the best way to show the data you want to communicate?
+I’ve analyzed the visual displays I use most in my work. In this chap-
+ter, I introduce the most common types of visuals used to commu-
+nicate data in a business setting, discuss appropriate use cases for
+each, and illustrate each through real‐world examples. Specific types
+of visuals covered include simple text, table, heatmap, line graph,
+slopegraph, vertical bar chart, vertical stacked bar chart, waterfall
+chart, horizontal bar chart, horizontal stacked bar chart, and square
+area graph. We also cover visuals to be avoided, including pie and
+donut charts, and discuss reasons for avoiding 3D.
+Chapter 3: clutter is your enemy!
+Picture a blank page or a blank screen: every single element you
+add to that page or screen takes up cognitive load on the part of
+your audience. That means we should take a discerning eye to the
+elements we allow on our page or screen and work to identify those
+things that are taking up brain power unnecessarily and remove
